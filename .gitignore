@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+Scripts/
+Lib/
+Include/
+share/
+build/
+dist/
